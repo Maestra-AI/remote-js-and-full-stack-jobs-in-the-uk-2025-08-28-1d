@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Remote JS and Full Stack Jobs in the UK by Maestra (updated 2025-08-28)
 
-> This is a curated compilation of **19 Remote JS and Full Stack Jobs in the UK** roles gathered over the last **1d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
+> This is a curated compilation of **12 Remote JS and Full Stack Jobs in the UK** roles gathered over the last **1d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
 
 ---
 
@@ -29,25 +29,18 @@
 
 | Company | Role | Location | Application |
 |---|---|---|---|
-| Mongodb | Senior Site Reliability Engineer, Observability | Remote | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7192663&utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
 | Uhg | API Security Engineer | Remote | [Apply](https://uhg.taleo.net/careersection/10640/jobdetail.ftl?job=2303892&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
 | Tas-uhg | API Security Engineer | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10640/jobdetail.ftl?job=2303892&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Io Global | LLM Engineer - Technical Intelligence | Remote | [Apply](https://apply.workable.com/j/CDF8DA6B15?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
 | Ndeavour | Mid Java Developer | Remote | [Apply](https://jobs.ashbyhq.com/ndeavour/48cda1e9-8e6c-4787-954f-90afd0e114f6?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| 31greenltd | Full Stack Developer | Remote | [Apply](https://31greenltd.bamboohr.com/careers/173?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Addepar1 | Sr. Software Engineer - Alts Data Management | Remote | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8123929002?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Docker | Senior Software Engineer, Docker Hub | Remote | [Apply](https://jobs.ashbyhq.com/docker/24979a48-ef00-476e-a403-bd7771fdb9eb?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Jajafinance | Back End Engineer | Remote | [Apply](https://jajafinance.bamboohr.com/careers/286?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Redpandadata | Senior UX Designer | Remote | [Apply](https://job-boards.greenhouse.io/redpandadata/jobs/4595364005?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Bridgestone-wf External Careers | Sales Engineer | Remote | [Apply](https://bridgestone.wd1.myworkdayjobs.com/wf_external_careers/job/United-Kingdom-Remote/Sales-Engineer_2025_18996?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Contentful | Copy of Senior Solution Engineer, Enterprise- DACH (f/m/d) | Remote | [Apply](https://job-boards.greenhouse.io/contentful/jobs/7189382?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Contentful | Solution Engineer, Commercial- France (f/m/d) | Dublin, IE | [Apply](https://job-boards.greenhouse.io/contentful/jobs/7189358?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Contentful | Solution Engineer, Commercial- France (f/m/d) | City of Westminster, England | [Apply](https://job-boards.greenhouse.io/contentful/jobs/7189357?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Contentful | Senior Solution Engineer - DACH | Dublin, IE | [Apply](https://job-boards.greenhouse.io/contentful/jobs/7190261?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Addepar1 | Software Engineer - Integrations and Developer Experience | Remote | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8130302002?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Tas-uhg | Senior Software Engineer | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10640/jobdetail.ftl?job=2302649&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Harriscomputer-wd3-1 | Team Lead | Web | Remote | [Apply](https://harriscomputer.wd1.myworkdayjobs.com/1/job/London-United-Kingdom/Team-Lead---Web_R0029950?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
-| Harriscomputer-wd3-1 | Software Developer | City of Westminster, England | [Apply](https://harriscomputer.wd1.myworkdayjobs.com/1/job/London-United-Kingdom/Software-Developer_R0030292?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
+| Zepzgroup | Senior Software Engineer - FinCrime | Remote | [Apply](https://job-boards.greenhouse.io/zepzgroup/jobs/8141272002?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
+| Grafanalabs | Staff Backend Software Engineer - Databases - Loki Ingest | EMEA | Remote | Remote | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5632838004?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
+| Deel | Backend Engineer, Infra Engineering, Node.js/AWS/K8s | Remote | [Apply](https://jobs.ashbyhq.com/deel/b71231e6-33b4-4bce-b6d7-f9d3d1e39cdf?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
+| Rithum | Senior Site Reliability Engineer | Remote | [Apply](https://job-boards.greenhouse.io/rithum/jobs/7202594?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
+| Rithum | Senior Site Reliability Engineer | Madrid, Comunidad de Madrid | [Apply](https://job-boards.greenhouse.io/rithum/jobs/7201431?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
+| Rithum | Senior Site Reliability Engineer | Remote | [Apply](https://job-boards.greenhouse.io/rithum/jobs/7202588?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
+| Gevernova-vernova Externalsite | Software Consulting Engineer – T&D Configuration Systems & Software Solutions | Hyderabad, Telangana | [Apply](https://gevernova.wd1.myworkdayjobs.com/vernova_externalsite/job/Remote/Software-Consulting-Engineer---T-D-Configuration-Systems---Software-Solutions_R5014240-1?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
+| Hargreaveslansdown-wd3-hargreaveslansdown | Senior Software Engineer (Pensions, ISAs & Investments) | Bristol, England | [Apply](https://hargreaveslansdown.wd1.myworkdayjobs.com/hargreaveslansdown/job/Home-Based/Senior-Software-Engineer--Pensions--ISAs---Investments-_R7444?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
+| Adobe-external Experienced | Senior Real-time Rendering and Graphics Engineer | Remote | [Apply](https://adobe.wd1.myworkdayjobs.com/external_experienced/job/Remote-England/Senior-Real-time-Rendering-and-Graphics-Engineer_R158998?utm_source=reddit&utm_medium=organic&utm_campaign=remotejs) |
 
 [Back to top](#top)
 
